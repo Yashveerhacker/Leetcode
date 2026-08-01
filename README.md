@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
+| [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
