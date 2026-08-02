@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
