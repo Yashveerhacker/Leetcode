@@ -70,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
