@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
