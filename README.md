@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0063-unique-paths-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
