@@ -83,14 +83,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+| [3310-remove-methods-from-project](https://github.com/Yashveerhacker/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+| [3310-remove-methods-from-project](https://github.com/Yashveerhacker/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0210-course-schedule-ii) |
+| [3310-remove-methods-from-project](https://github.com/Yashveerhacker/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
