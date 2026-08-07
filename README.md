@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yashveerhacker/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Yashveerhacker/Leetcode/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
