@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Yashveerhacker/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yashveerhacker/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/Yashveerhacker/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0932-beautiful-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yashveerhacker/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashveerhacker/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yashveerhacker/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
