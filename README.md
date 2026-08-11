@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Yashveerhacker/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
 ## Memoization
 |  |
