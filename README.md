@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yashveerhacker/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Yashveerhacker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yashveerhacker/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yashveerhacker/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Yashveerhacker/Leetcode/tree/master/0055-jump-game) |
 ## Heap (Priority Queue)
 |  |
