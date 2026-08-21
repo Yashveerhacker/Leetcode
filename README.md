@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yashveerhacker/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Yashveerhacker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yashveerhacker/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashveerhacker/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yashveerhacker/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Yashveerhacker/Leetcode/tree/master/0264-ugly-number-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
