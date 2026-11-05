@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yashveerhacker/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Yashveerhacker/Leetcode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashveerhacker/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yashveerhacker/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashveerhacker/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Yashveerhacker/Leetcode/tree/master/1406-stone-game-iii) |
 | [1534-count-good-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Yashveerhacker/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashveerhacker/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashveerhacker/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashveerhacker/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Yashveerhacker/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashveerhacker/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Yashveerhacker/Leetcode/tree/master/3731-find-missing-elements) |
